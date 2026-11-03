@@ -20,4 +20,4 @@ export function registerCommands(bot) {
 
   bot.callbackQuery("ping", (ctx) => ctx.answerCallbackQuery({ text: "pong" }))
 
-  
+  //update
